@@ -1,0 +1,1171 @@
+#EXTM3U
+#EXTINF:-1,Sky Sport 24 Full HD
+http://cdnlive1.win:8080/live/ja1mqWtMFf/ziQhHBAC3u/1457.ts
+#EXTINF:-1,Sky Sport 24 HD
+http://cdnlive1.win:8080/live/ja1mqWtMFf/ziQhHBAC3u/8.ts
+#EXTINF:-1,Sky Sport 24 SD
+http://cdnlive1.win:8080/live/ja1mqWtMFf/ziQhHBAC3u/277.ts
+#EXTINF:-1,Sky Sport 1 SUPER HD
+http://cdnlive1.win:8080/live/ja1mqWtMFf/ziQhHBAC3u/1449.ts
+#EXTINF:-1,Sky Sport 1 HD
+http://cdnlive1.win:8080/live/ja1mqWtMFf/ziQhHBAC3u/10.ts
+#EXTINF:-1,Sky Sport 1 SD
+http://cdnlive1.win:8080/live/ja1mqWtMFf/ziQhHBAC3u/278.ts
+#EXTINF:-1,Sky Sport 2 Full HD
+http://cdnlive1.win:8080/live/ja1mqWtMFf/ziQhHBAC3u/1454.ts
+#EXTINF:-1,Sky Sport 2 HD
+http://cdnlive1.win:8080/live/ja1mqWtMFf/ziQhHBAC3u/9.ts
+#EXTINF:-1,Sky Sport 2 SD
+http://cdnlive1.win:8080/live/ja1mqWtMFf/ziQhHBAC3u/279.ts
+#EXTINF:-1,Sky Sport 3 Full HD
+http://cdnlive1.win:8080/live/ja1mqWtMFf/ziQhHBAC3u/1455.ts
+#EXTINF:-1,Sky Sport 3 HD
+http://cdnlive1.win:8080/live/ja1mqWtMFf/ziQhHBAC3u/7.ts
+#EXTINF:-1,Sky Sport 3 SD
+http://cdnlive1.win:8080/live/ja1mqWtMFf/ziQhHBAC3u/280.ts
+#EXTINF:-1,Sky Sport Mix HD
+http://cdnlive1.win:8080/live/ja1mqWtMFf/ziQhHBAC3u/1470.ts
+#EXTINF:-1,Sky Sport Plus HD
+http://cdnlive1.win:8080/live/ja1mqWtMFf/ziQhHBAC3u/4.ts
+#EXTINF:-1,Sky Sport Plus SD
+http://cdnlive1.win:8080/live/ja1mqWtMFf/ziQhHBAC3u/323.ts
+#EXTINF:-1,Fox Sports HD
+http://cdnlive1.win:8080/live/ja1mqWtMFf/ziQhHBAC3u/12.ts
+#EXTINF:-1,Sky Sport F1 SUPER HD
+http://cdnlive1.win:8080/live/ja1mqWtMFf/ziQhHBAC3u/1450.ts
+#EXTINF:-1,Sky Sport F1 HD
+http://cdnlive1.win:8080/live/ja1mqWtMFf/ziQhHBAC3u/6.ts
+#EXTINF:-1,Sky Sport F1 SD
+http://cdnlive1.win:8080/live/ja1mqWtMFf/ziQhHBAC3u/258.ts
+#EXTINF:-1,Sky Sport Moto GP SUPER HD
+http://cdnlive1.win:8080/live/ja1mqWtMFf/ziQhHBAC3u/1456.ts
+#EXTINF:-1,Sky Sport Moto GP
+http://cdnlive1.win:8080/live/ja1mqWtMFf/ziQhHBAC3u/5.ts
+#EXTINF:-1,Sky Sport Moto GP SD
+http://cdnlive1.win:8080/live/ja1mqWtMFf/ziQhHBAC3u/281.ts
+#EXTINF:-1,Sky Eurosport HD
+http://cdnlive1.win:8080/live/ja1mqWtMFf/ziQhHBAC3u/13.ts
+#EXTINF:-1,Sky Eurosport 2 HD
+http://cdnlive1.win:8080/live/ja1mqWtMFf/ziQhHBAC3u/14.ts
+#EXTINF:0,----|ANGLAIS|----
+http://195.154.154.185:5890/live/junior/junior1/1452.ts
+#EXTINF:0,UK|RTÉ One HD
+http://195.154.154.185:5890/live/junior/junior1/4171.ts
+#EXTINF:0,UK|RTÉ One
+http://195.154.154.185:5890/live/junior/junior1/922.ts
+#EXTINF:0,UK|RTÉ Two HD
+http://195.154.154.185:5890/live/junior/junior1/4170.ts
+#EXTINF:0,UK|RTÉ Two
+http://195.154.154.185:5890/live/junior/junior1/923.ts
+#EXTINF:0,UK|TLC
+http://195.154.154.185:5890/live/junior/junior1/1256.ts
+#EXTINF:0,UK|UK|BBC News HD
+http://195.154.154.185:5890/live/junior/junior1/4182.ts
+#EXTINF:0,UK|BBC News
+http://195.154.154.185:5890/live/junior/junior1/301.ts
+#EXTINF:0,UK|UK|BBC One FHD
+http://195.154.154.185:5890/live/junior/junior1/4181.ts
+#EXTINF:0,UK|BBC One HD
+http://195.154.154.185:5890/live/junior/junior1/297.ts
+#EXTINF:0,UK|BBC Two FHD
+http://195.154.154.185:5890/live/junior/junior1/4178.ts
+#EXTINF:0,UK|BBC Two HD
+http://195.154.154.185:5890/live/junior/junior1/298.ts
+#EXTINF:0,UK|BBC Three HD
+http://195.154.154.185:5890/live/junior/junior1/299.ts
+#EXTINF:0,UK|BBC Four FHD
+http://195.154.154.185:5890/live/junior/junior1/4179.ts
+#EXTINF:0,UK|CBBC FHD
+http://195.154.154.185:5890/live/junior/junior1/4180.ts
+#EXTINF:0,UK|BBC Four
+http://195.154.154.185:5890/live/junior/junior1/300.ts
+#EXTINF:0,UK|TG4
+http://195.154.154.185:5890/live/junior/junior1/1263.ts
+#EXTINF:0,UK|UTV FHD
+http://195.154.154.185:5890/live/junior/junior1/4166.ts
+#EXTINF:0,UK|ITV FHD
+http://195.154.154.185:5890/live/junior/junior1/4177.ts
+#EXTINF:0,UK|ITV HD
+http://195.154.154.185:5890/live/junior/junior1/1080.ts
+#EXTINF:0,UK|ITV2 FHD
+http://195.154.154.185:5890/live/junior/junior1/4176.ts
+#EXTINF:0,UK|ITV2 HD
+http://195.154.154.185:5890/live/junior/junior1/1081.ts
+#EXTINF:0,UK|ITV3 FHD
+http://195.154.154.185:5890/live/junior/junior1/4175.ts
+#EXTINF:0,UK|ITV3 HD
+http://195.154.154.185:5890/live/junior/junior1/1082.ts
+#EXTINF:0,UK|ITV4 FHD
+http://195.154.154.185:5890/live/junior/junior1/4174.ts
+#EXTINF:0,UK|ITV4 HD
+http://195.154.154.185:5890/live/junior/junior1/1083.ts
+#EXTINF:0,UK|ITV Encore
+http://195.154.154.185:5890/live/junior/junior1/4172.ts
+#EXTINF:0,UK|ITVBe 1
+http://195.154.154.185:5890/live/junior/junior1/4173.ts
+#EXTINF:0,UK|Cbs Reality
+http://195.154.154.185:5890/live/junior/junior1/1209.ts
+#EXTINF:0,UK|Cbs Drama
+http://195.154.154.185:5890/live/junior/junior1/1210.ts
+#EXTINF:0,UK|Cbs Action
+http://195.154.154.185:5890/live/junior/junior1/1211.ts
+#EXTINF:0,UK|London Live
+http://195.154.154.185:5890/live/junior/junior1/1128.ts
+#EXTINF:0,UK|Channel 4 FHD
+http://195.154.154.185:5890/live/junior/junior1/4169.ts
+#EXTINF:0,UK|Channel 4 HD
+http://195.154.154.185:5890/live/junior/junior1/270.ts
+#EXTINF:0,UK|Channel 5 FHD
+http://195.154.154.185:5890/live/junior/junior1/4168.ts
+#EXTINF:0,UK|Channel 5 HD
+http://195.154.154.185:5890/live/junior/junior1/1079.ts
+#EXTINF:0,UK|Home
+http://195.154.154.185:5890/live/junior/junior1/1255.ts
+#EXTINF:0,UK|CNN FHD
+http://195.154.154.185:5890/live/junior/junior1/4165.ts
+#EXTINF:0,UK|CNN
+http://195.154.154.185:5890/live/junior/junior1/4117.ts
+#EXTINF:0,UK|Sky News HD
+http://195.154.154.185:5890/live/junior/junior1/812.ts
+#EXTINF:0,--|UK SPORT|--
+http://195.154.154.185:5890/live/junior/junior1/1449.ts
+#EXTINF:0,UK|BT Sport 1 HD
+http://195.154.154.185:5890/live/junior/junior1/4191.ts
+#EXTINF:0,UK|BT Sport 1
+http://195.154.154.185:5890/live/junior/junior1/279.ts
+#EXTINF:0,UK|BT Sport 2 HD
+http://195.154.154.185:5890/live/junior/junior1/4192.ts
+#EXTINF:0,UK|BT Sport 2
+http://195.154.154.185:5890/live/junior/junior1/280.ts
+#EXTINF:0,UK|BT Sport 3 HD
+http://195.154.154.185:5890/live/junior/junior1/4193.ts
+#EXTINF:0,UK|BT Sport 3
+http://195.154.154.185:5890/live/junior/junior1/3130.ts
+#EXTINF:0,UK|BT Sport // ESPN
+http://195.154.154.185:5890/live/junior/junior1/1257.ts
+#EXTINF:0,UK|BT Sport Extra HD1
+http://195.154.154.185:5890/live/junior/junior1/1215.ts
+#EXTINF:0,UK|BT Sport Extra HD2
+http://195.154.154.185:5890/live/junior/junior1/4110.ts
+#EXTINF:0,UK|BT Sport Extra HD3
+http://195.154.154.185:5890/live/junior/junior1/4111.ts
+#EXTINF:0,UK|BT Sport Extra HD4
+http://195.154.154.185:5890/live/junior/junior1/4112.ts
+#EXTINF:0,UK|BT Sport Extra HD5
+http://195.154.154.185:5890/live/junior/junior1/4113.ts
+#EXTINF:0,UK|Sky Sports 1 HD
+http://195.154.154.185:5890/live/junior/junior1/4184.ts
+#EXTINF:0,UK|Sky Sports 1
+http://195.154.154.185:5890/live/junior/junior1/273.ts
+#EXTINF:0,UK|Sky Sports 2 HD
+http://195.154.154.185:5890/live/junior/junior1/4185.ts
+#EXTINF:0,UK|Sky Sports 2
+http://195.154.154.185:5890/live/junior/junior1/274.ts
+#EXTINF:0,UK|Sky Sports 3 HD
+http://195.154.154.185:5890/live/junior/junior1/4186.ts
+#EXTINF:0,UK|Sky Sports 3
+http://195.154.154.185:5890/live/junior/junior1/275.ts
+#EXTINF:0,UK|Sky Sports 4 HD
+http://195.154.154.185:5890/live/junior/junior1/4187.ts
+#EXTINF:0,UK|Sky Sports 4
+http://195.154.154.185:5890/live/junior/junior1/276.ts
+#EXTINF:0,UK|Sky Sports 5 HD
+http://195.154.154.185:5890/live/junior/junior1/4188.ts
+#EXTINF:0,UK|Sky Sports 5
+http://195.154.154.185:5890/live/junior/junior1/277.ts
+#EXTINF:0,UK|Sky Sports F1 HD
+http://195.154.154.185:5890/live/junior/junior1/4189.ts
+#EXTINF:0,UK|Sky Sports F1
+http://195.154.154.185:5890/live/junior/junior1/278.ts
+#EXTINF:0,Premiere Sport HD
+http://195.154.154.185:5890/live/junior/junior1/3676.ts
+#EXTINF:0,UK|Euro Sports 1 HD
+http://195.154.154.185:5890/live/junior/junior1/283.ts
+#EXTINF:0,UK|Euro Sports 2 HD
+http://195.154.154.185:5890/live/junior/junior1/4190.ts
+#EXTINF:0,UK|eir SPORTS 1
+http://195.154.154.185:5890/live/junior/junior1/281.ts
+#EXTINF:0,UK|MU TV
+http://195.154.154.185:5890/live/junior/junior1/3131.ts
+#EXTINF:0,UK|LFC TV
+http://195.154.154.185:5890/live/junior/junior1/3220.ts
+#EXTINF:0,UK|Chelsea TV
+http://195.154.154.185:5890/live/junior/junior1/3219.ts
+#EXTINF:0,UK|BOX NATION
+http://195.154.154.185:5890/live/junior/junior1/1711.ts
+#EXTINF:0,UK|Racing
+http://195.154.154.185:5890/live/junior/junior1/1259.ts
+#EXTINF:0,UK|MOTORS TV
+http://195.154.154.185:5890/live/junior/junior1/1258.ts
+#EXTINF:0,--|UK CINEMA|--
+http://195.154.154.185:5890/live/junior/junior1/1448.ts
+#EXTINF:0,UK|Sky 1 FHD
+http://195.154.154.185:5890/live/junior/junior1/4167.ts
+#EXTINF:0,UK|Sky1 HD
+http://195.154.154.185:5890/live/junior/junior1/266.ts
+#EXTINF:0,UK|Sky2
+http://195.154.154.185:5890/live/junior/junior1/267.ts
+#EXTINF:0,UK|Film4 HD
+http://195.154.154.185:5890/live/junior/junior1/1086.ts
+#EXTINF:0,UK|Sky Arts 1
+http://195.154.154.185:5890/live/junior/junior1/1254.ts
+#EXTINF:0,UK|Sky Select HD
+http://195.154.154.185:5890/live/junior/junior1/257.ts
+#EXTINF:0,UK|Sky Movies Premiere
+http://195.154.154.185:5890/live/junior/junior1/264.ts
+#EXTINF:0,UK|Sky Movies Great&Modern
+http://195.154.154.185:5890/live/junior/junior1/1207.ts
+#EXTINF:0,UK|Sky Movies Disney HD
+http://195.154.154.185:5890/live/junior/junior1/1253.ts
+#EXTINF:0,UK|Sky Movies Drama
+http://195.154.154.185:5890/live/junior/junior1/258.ts
+#EXTINF:0,UK|DinsenyChannel
+http://195.154.154.185:5890/live/junior/junior1/1090.ts
+#EXTINF:0,UK|Sky Disney HD
+http://195.154.154.185:5890/live/junior/junior1/282.ts
+#EXTINF:0,UK|Sky Movies Comedy
+http://195.154.154.185:5890/live/junior/junior1/806.ts
+#EXTINF:0,UK|Sky Atlantic HD
+http://195.154.154.185:5890/live/junior/junior1/261.ts
+#EXTINF:0,UK|Sky ScFi/HorHD
+http://195.154.154.185:5890/live/junior/junior1/263.ts
+#EXTINF:0,UK|Sky Movies Showcase
+http://195.154.154.185:5890/live/junior/junior1/1087.ts
+#EXTINF:0,UK|Sky Movies Family
+http://195.154.154.185:5890/live/junior/junior1/1088.ts
+#EXTINF:0,UK|Sky Movies Action
+http://195.154.154.185:5890/live/junior/junior1/1089.ts
+#EXTINF:0,UK|Sky Living
+http://195.154.154.185:5890/live/junior/junior1/1085.ts
+#EXTINF:0,UK|Sky Movies Thriller
+http://195.154.154.185:5890/live/junior/junior1/260.ts
+#EXTINF:0,UK|Sky True Movies
+http://195.154.154.185:5890/live/junior/junior1/271.ts
+#EXTINF:0,UK|Sky True Movies 2
+http://195.154.154.185:5890/live/junior/junior1/272.ts
+#EXTINF:0,UK|Dave
+http://195.154.154.185:5890/live/junior/junior1/269.ts
+#EXTINF:0,UK|Fox
+http://195.154.154.185:5890/live/junior/junior1/1208.ts
+#EXTINF:0,UK|Syfy
+http://195.154.154.185:5890/live/junior/junior1/265.ts
+#EXTINF:0,UK|Good Food
+http://195.154.154.185:5890/live/junior/junior1/1213.ts
+#EXTINF:0,UK|Food Network
+http://195.154.154.185:5890/live/junior/junior1/1212.ts
+#EXTINF:0,--|UK CULTURE|--
+http://195.154.154.185:5890/live/junior/junior1/1450.ts
+#EXTINF:0,UK|Travel Channel
+http://195.154.154.185:5890/live/junior/junior1/4164.ts
+#EXTINF:0,UK|NatGeoGraphic
+http://195.154.154.185:5890/live/junior/junior1/286.ts
+#EXTINF:0,UK|NationalGeography-Wild
+http://195.154.154.185:5890/live/junior/junior1/807.ts
+#EXTINF:0,UK|DiscoverySc
+http://195.154.154.185:5890/live/junior/junior1/291.ts
+#EXTINF:0,UK|DiscoveryHistory
+http://195.154.154.185:5890/live/junior/junior1/292.ts
+#EXTINF:0,UK|Disc Turbo
+http://195.154.154.185:5890/live/junior/junior1/1106.ts
+#EXTINF:0,UK|DiscoveryCI
+http://195.154.154.185:5890/live/junior/junior1/290.ts
+#EXTINF:0,UK|Discovery HD
+http://195.154.154.185:5890/live/junior/junior1/289.ts
+#EXTINF:0,UK|DiscoveryWorld
+http://195.154.154.185:5890/live/junior/junior1/1260.ts
+#EXTINF:0,UK|AnimalPlanet
+http://195.154.154.185:5890/live/junior/junior1/288.ts
+#EXTINF:0,--|UK ENFANTS|--
+http://195.154.154.185:5890/live/junior/junior1/1451.ts
+#EXTINF:0,UK|Nick Jr
+http://195.154.154.185:5890/live/junior/junior1/1084.ts
+#EXTINF:0,UK|Sky Baby
+http://195.154.154.185:5890/live/junior/junior1/2707.ts
+#EXTINF:0,UK|Nicktoons
+http://195.154.154.185:5890/live/junior/junior1/284.ts
+#EXTINF:0,UK|nickelodeon
+http://195.154.154.185:5890/live/junior/junior1/285.ts
+#EXTINF:0,UK|Cartoon Network
+http://195.154.154.185:5890/live/junior/junior1/813.ts
+
+#EXTINF:0,----|CANADA|----
+http://195.154.154.185:5890/live/junior/junior1/3265.ts
+#EXTINF:0,CA|ABC HD
+http://195.154.154.185:5890/live/junior/junior1/3320.ts
+#EXTINF:0,CA|ABC SPARK HD
+http://195.154.154.185:5890/live/junior/junior1/3319.ts
+#EXTINF:0,CA|Aljazeera english
+http://195.154.154.185:5890/live/junior/junior1/3273.ts
+#EXTINF:0,CA|AMC_HD
+http://195.154.154.185:5890/live/junior/junior1/3268.ts
+#EXTINF:0,CA|BET
+http://195.154.154.185:5890/live/junior/junior1/3318.ts
+#EXTINF:0,CA|BRAVO HD
+http://195.154.154.185:5890/live/junior/junior1/3317.ts
+#EXTINF:0,CA|CANAL D
+http://195.154.154.185:5890/live/junior/junior1/3289.ts
+#EXTINF:0,CA|CARTOON NETWORK HD
+http://195.154.154.185:5890/live/junior/junior1/3316.ts
+#EXTINF:0,CA|CBC HD
+http://195.154.154.185:5890/live/junior/junior1/3315.ts
+#EXTINF:0,CA|CBC TORONTO
+http://195.154.154.185:5890/live/junior/junior1/3284.ts
+#EXTINF:0,CA|CITY HD
+http://195.154.154.185:5890/live/junior/junior1/3314.ts
+#EXTINF:0,CA|COMEDY CHANNEL
+http://195.154.154.185:5890/live/junior/junior1/3313.ts
+#EXTINF:0,CA|comedygold
+http://195.154.154.185:5890/live/junior/junior1/3303.ts
+#EXTINF:0,CA|COTTAGE LIFE
+http://195.154.154.185:5890/live/junior/junior1/3274.ts
+#EXTINF:0,CA|CP24 HD
+http://195.154.154.185:5890/live/junior/junior1/3312.ts
+#EXTINF:0,CA|CTV HD
+http://195.154.154.185:5890/live/junior/junior1/3311.ts
+#EXTINF:0,CA|DEJAVIEW
+http://195.154.154.185:5890/live/junior/junior1/3293.ts
+#EXTINF:0,CA|DISCOVERY SCIENCE HD
+http://195.154.154.185:5890/live/junior/junior1/3309.ts
+#EXTINF:0,CA|DISNEY Junior HD
+http://195.154.154.185:5890/live/junior/junior1/3307.ts
+#EXTINF:0,CA|DISNEY_XD
+http://195.154.154.185:5890/live/junior/junior1/3290.ts
+#EXTINF:0,CA|E HD
+http://195.154.154.185:5890/live/junior/junior1/3321.ts
+#EXTINF:0,CA|EVASION
+http://195.154.154.185:5890/live/junior/junior1/3294.ts
+#EXTINF:0,CA|FOX HD
+http://195.154.154.185:5890/live/junior/junior1/3302.ts
+#EXTINF:0,CA|FX HD
+http://195.154.154.185:5890/live/junior/junior1/3301.ts
+#EXTINF:0,CA|FYI
+http://195.154.154.185:5890/live/junior/junior1/3300.ts
+#EXTINF:0,CA|G4 CANADA
+http://195.154.154.185:5890/live/junior/junior1/3267.ts
+#EXTINF:0,CA|GLOBAL HD
+http://195.154.154.185:5890/live/junior/junior1/3299.ts
+#EXTINF:0,CA|GLOBO
+http://195.154.154.185:5890/live/junior/junior1/3298.ts
+#EXTINF:0,CA|Golf Channel
+http://195.154.154.185:5890/live/junior/junior1/3272.ts
+#EXTINF:0,CA|GSN
+http://195.154.154.185:5890/live/junior/junior1/3297.ts
+#EXTINF:0,CA|ICI ARTV
+http://195.154.154.185:5890/live/junior/junior1/3304.ts
+#EXTINF:0,CA|ICI RDI
+http://195.154.154.185:5890/live/junior/junior1/3306.ts
+#EXTINF:0,CA|LCN
+http://195.154.154.185:5890/live/junior/junior1/3310.ts
+#EXTINF:0,CA|MOVIE TIME HD
+http://195.154.154.185:5890/live/junior/junior1/3296.ts
+#EXTINF:0,CA|MTV CANADA
+http://195.154.154.185:5890/live/junior/junior1/3308.ts
+#EXTINF:0,CA|MUCH MUSIC
+http://195.154.154.185:5890/live/junior/junior1/3295.ts
+#EXTINF:0,CA|NBC HD
+http://195.154.154.185:5890/live/junior/junior1/3291.ts
+#EXTINF:0,CA|nick
+http://195.154.154.185:5890/live/junior/junior1/3292.ts
+#EXTINF:0,CA|OWN HD
+http://195.154.154.185:5890/live/junior/junior1/3288.ts
+#EXTINF:0,CA|PEACHTREE TV
+http://195.154.154.185:5890/live/junior/junior1/3287.ts
+#EXTINF:0,CA|SLICE HD
+http://195.154.154.185:5890/live/junior/junior1/3285.ts
+#EXTINF:0,CA|SPIKE
+http://195.154.154.185:5890/live/junior/junior1/3283.ts
+#EXTINF:0,CA|SPORTSNET 360 HD
+http://195.154.154.185:5890/live/junior/junior1/3282.ts
+#EXTINF:0,CA|SPORTSNET ONTARIO
+http://195.154.154.185:5890/live/junior/junior1/3280.ts
+#EXTINF:0,CA|SPORTSNET WORLD
+http://195.154.154.185:5890/live/junior/junior1/3281.ts
+#EXTINF:0,CA|tele-quebec
+http://195.154.154.185:5890/live/junior/junior1/3305.ts
+#EXTINF:0,CA|TELETOON HD
+http://195.154.154.185:5890/live/junior/junior1/3279.ts
+#EXTINF:0,CA|THE SHOPPING CHANNEL HD
+http://195.154.154.185:5890/live/junior/junior1/3278.ts
+#EXTINF:0,CA|TMN
+http://195.154.154.185:5890/live/junior/junior1/3277.ts
+#EXTINF:0,CA|TRAVEL CHANNEL
+http://195.154.154.185:5890/live/junior/junior1/3276.ts
+#EXTINF:0,CA|TREE HOUSE HD
+http://195.154.154.185:5890/live/junior/junior1/3275.ts
+#EXTINF:0,CA|TV5
+http://195.154.154.185:5890/live/junior/junior1/3269.ts
+#EXTINF:0,CA|TVA
+http://195.154.154.185:5890/live/junior/junior1/3271.ts
+#EXTINF:0,CA|vrak tv
+http://195.154.154.185:5890/live/junior/junior1/3286.ts
+#EXTINF:0,CA|W NETWORK HD
+http://195.154.154.185:5890/live/junior/junior1/3270.ts
+#EXTINF:0,CA|YTV HD
+http://195.154.154.185:5890/live/junior/junior1/3266.ts
+#EXTINF:0,------|USA|------
+http://195.154.154.185:5890/live/junior/junior1/1771.ts
+#EXTINF:0,US|beIN SPORTS
+http://195.154.154.185:5890/live/junior/junior1/1723.ts
+#EXTINF:0,US|NBA
+http://195.154.154.185:5890/live/junior/junior1/1848.ts
+#EXTINF:0,US|ABC
+http://195.154.154.185:5890/live/junior/junior1/1847.ts
+#EXTINF:0,US|NFL
+http://195.154.154.185:5890/live/junior/junior1/1789.ts
+#EXTINF:0,US|ESPN
+http://195.154.154.185:5890/live/junior/junior1/1791.ts
+#EXTINF:0,US|TSN 1
+http://195.154.154.185:5890/live/junior/junior1/1765.ts
+#EXTINF:0,US|TSN 2
+http://195.154.154.185:5890/live/junior/junior1/1764.ts
+#EXTINF:0,US|TSN 3
+http://195.154.154.185:5890/live/junior/junior1/1763.ts
+#EXTINF:0,US|TSN 4
+http://195.154.154.185:5890/live/junior/junior1/1762.ts
+#EXTINF:0,US|TSN 5
+http://195.154.154.185:5890/live/junior/junior1/1761.ts
+#EXTINF:0,US|FOX SPORT 1 HD
+http://195.154.154.185:5890/live/junior/junior1/1767.ts
+#EXTINF:0,US|FOX SPORT 2 HD
+http://195.154.154.185:5890/live/junior/junior1/1766.ts
+#EXTINF:0,US|ASTRO SPORT 1
+http://195.154.154.185:5890/live/junior/junior1/1769.ts
+#EXTINF:0,US|ASTRO SPORT 2
+http://195.154.154.185:5890/live/junior/junior1/1770.ts
+#EXTINF:0,US|ASTRO SPORT 3
+http://195.154.154.185:5890/live/junior/junior1/1768.ts
+#EXTINF:0,US|ASTRO SPORT 4
+http://195.154.154.185:5890/live/junior/junior1/1790.ts
+#EXTINF:0,US|ABC NEWS
+http://195.154.154.185:5890/live/junior/junior1/1760.ts
+#EXTINF:0,US|NBC
+http://195.154.154.185:5890/live/junior/junior1/1846.ts
+#EXTINF:0,US|WWE RAW HD
+http://195.154.154.185:5890/live/junior/junior1/1864.ts
+#EXTINF:0,US|HBO Zone
+http://195.154.154.185:5890/live/junior/junior1/1861.ts
+#EXTINF:0,US|HBO Signature
+http://195.154.154.185:5890/live/junior/junior1/1862.ts
+#EXTINF:0,US|HBO HD
+http://195.154.154.185:5890/live/junior/junior1/1863.ts
+#EXTINF:0,US|Hallmark
+http://195.154.154.185:5890/live/junior/junior1/1860.ts
+#EXTINF:0,UK_Sky Arts
+http://realspeedymomy.com:8000/live/domenic/domenic1/37385.ts
+#EXTINF:0,UK: 3E Ireland
+http://realspeedymomy.com:8000/live/domenic/domenic1/37446.ts
+#EXTINF:0,UK: Baby TV
+http://realspeedymomy.com:8000/live/domenic/domenic1/37397.ts
+#EXTINF:0,UK: BBC 1 HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/37457.ts
+#EXTINF:0,UK: BBC 4 HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/37452.ts
+#EXTINF:0,UK: BoomeRang
+http://realspeedymomy.com:8000/live/domenic/domenic1/37398.ts
+#EXTINF:0,UK: BT Sport | ESPN HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/37321.ts
+#EXTINF:0,UK: BT Sport 1 HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/37324.ts
+#EXTINF:0,UK: BT Sport 2 HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/37323.ts
+#EXTINF:0,UK: BT Sport 3 HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/37322.ts
+#EXTINF:0,UK: BT Sport ESPN
+http://realspeedymomy.com:8000/live/domenic/domenic1/37346.ts
+#EXTINF:0,UK: BT Sport Extra 2
+http://realspeedymomy.com:8000/live/domenic/domenic1/37331.ts
+#EXTINF:0,UK: BT Sport Extra 3
+http://realspeedymomy.com:8000/live/domenic/domenic1/37330.ts
+#EXTINF:0,UK: BT Sport Extra 4
+http://realspeedymomy.com:8000/live/domenic/domenic1/37329.ts
+#EXTINF:0,UK: BT Sport Extra 5
+http://realspeedymomy.com:8000/live/domenic/domenic1/37328.ts
+#EXTINF:0,UK: BT Sport Extra 6
+http://realspeedymomy.com:8000/live/domenic/domenic1/37327.ts
+#EXTINF:0,UK: BT Sports 3 HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/37473.ts
+#EXTINF:0,UK: Cartoon Network
+http://realspeedymomy.com:8000/live/domenic/domenic1/37404.ts
+#EXTINF:0,UK: CBS Action
+http://realspeedymomy.com:8000/live/domenic/domenic1/37393.ts
+#EXTINF:0,UK: CBS Drama
+http://realspeedymomy.com:8000/live/domenic/domenic1/37392.ts
+#EXTINF:0,UK: CBS Reality
+http://realspeedymomy.com:8000/live/domenic/domenic1/37391.ts
+#EXTINF:0,UK: Channel 4
+http://realspeedymomy.com:8000/live/domenic/domenic1/37386.ts
+#EXTINF:0,UK: CHANNEL 5
+http://realspeedymomy.com:8000/live/domenic/domenic1/37450.ts
+#EXTINF:0,UK: Channel AKA
+http://realspeedymomy.com:8000/live/domenic/domenic1/37336.ts
+#EXTINF:0,UK: Chelsea TV
+http://realspeedymomy.com:8000/live/domenic/domenic1/37350.ts
+#EXTINF:0,UK: Comedy Central
+http://realspeedymomy.com:8000/live/domenic/domenic1/37430.ts
+#EXTINF:0,UK: Discovery Channel
+http://realspeedymomy.com:8000/live/domenic/domenic1/37359.ts
+#EXTINF:0,UK: Discovery History
+http://realspeedymomy.com:8000/live/domenic/domenic1/37355.ts
+#EXTINF:0,UK: Discovery History  1
+http://realspeedymomy.com:8000/live/domenic/domenic1/37354.ts
+#EXTINF:0,UK: Disney Junior
+http://realspeedymomy.com:8000/live/domenic/domenic1/37405.ts
+#EXTINF:0,UK: E!
+http://realspeedymomy.com:8000/live/domenic/domenic1/37445.ts
+#EXTINF:0,UK: Eir Sport 1
+http://realspeedymomy.com:8000/live/domenic/domenic1/37326.ts
+#EXTINF:0,UK: Eir Sport 2
+http://realspeedymomy.com:8000/live/domenic/domenic1/37325.ts
+#EXTINF:0,UK: EuroSport 2
+http://realspeedymomy.com:8000/live/domenic/domenic1/37344.ts
+#EXTINF:0,UK: Film 4 HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/37388.ts
+#EXTINF:0,UK: FLAVA
+http://realspeedymomy.com:8000/live/domenic/domenic1/37320.ts
+#EXTINF:0,UK: Fox sd
+http://realspeedymomy.com:8000/live/domenic/domenic1/37433.ts
+#EXTINF:0,UK: Gold TV
+http://realspeedymomy.com:8000/live/domenic/domenic1/37408.ts
+#EXTINF:0,UK: HBO
+http://realspeedymomy.com:8000/live/domenic/domenic1/37409.ts
+#EXTINF:0,UK: HBO Comedy HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/37410.ts
+#EXTINF:0,UK: History Channel
+http://realspeedymomy.com:8000/live/domenic/domenic1/37353.ts
+#EXTINF:0,UK: ITV 1
+http://realspeedymomy.com:8000/live/domenic/domenic1/37443.ts
+#EXTINF:0,UK: ITV 2 HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/37442.ts
+#EXTINF:0,UK: ITV 3
+http://realspeedymomy.com:8000/live/domenic/domenic1/37441.ts
+#EXTINF:0,UK: ITV 4
+http://realspeedymomy.com:8000/live/domenic/domenic1/37440.ts
+#EXTINF:0,UK: Itv Encore
+http://realspeedymomy.com:8000/live/domenic/domenic1/37444.ts
+#EXTINF:0,UK: ITVBE
+http://realspeedymomy.com:8000/live/domenic/domenic1/37364.ts
+#EXTINF:0,UK: Liverpool FC
+http://realspeedymomy.com:8000/live/domenic/domenic1/37471.ts
+#EXTINF:0,UK: Manchester United TV
+http://realspeedymomy.com:8000/live/domenic/domenic1/37472.ts
+#EXTINF:0,UK: More4
+http://realspeedymomy.com:8000/live/domenic/domenic1/37451.ts
+#EXTINF:0,UK: Movies24
+http://realspeedymomy.com:8000/live/domenic/domenic1/37394.ts
+#EXTINF:0,UK: Movies4Man
+http://realspeedymomy.com:8000/live/domenic/domenic1/37395.ts
+#EXTINF:0,UK: Movies4Man1
+http://realspeedymomy.com:8000/live/domenic/domenic1/37396.ts
+#EXTINF:0,UK: MTV
+http://realspeedymomy.com:8000/live/domenic/domenic1/37334.ts
+#EXTINF:0,UK: MTV Base
+http://realspeedymomy.com:8000/live/domenic/domenic1/37373.ts
+#EXTINF:0,UK: MTV Base HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/37341.ts
+#EXTINF:0,UK: MTV Classic
+http://realspeedymomy.com:8000/live/domenic/domenic1/37333.ts
+#EXTINF:0,UK: MTV Dance
+http://realspeedymomy.com:8000/live/domenic/domenic1/37374.ts
+#EXTINF:0,UK: MTV Dance HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/37342.ts
+#EXTINF:0,UK: MTV EUROPE HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/37337.ts
+#EXTINF:0,UK: MTV Hits
+http://realspeedymomy.com:8000/live/domenic/domenic1/37375.ts
+#EXTINF:0,UK: MTV Hits HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/37340.ts
+#EXTINF:0,UK: MTV Live HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/37339.ts
+#EXTINF:0,UK: MTV Music
+http://realspeedymomy.com:8000/live/domenic/domenic1/37376.ts
+#EXTINF:0,UK: MTV Rocks
+http://realspeedymomy.com:8000/live/domenic/domenic1/37377.ts
+#EXTINF:0,UK: MTV Rocks HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/37338.ts
+#EXTINF:0,UK: Nat Geo Wild
+http://realspeedymomy.com:8000/live/domenic/domenic1/37358.ts
+#EXTINF:0,UK: National Geographic Channel
+http://realspeedymomy.com:8000/live/domenic/domenic1/37357.ts
+#EXTINF:0,UK: NIck JR
+http://realspeedymomy.com:8000/live/domenic/domenic1/37403.ts
+#EXTINF:0,UK: Nick JR 1
+http://realspeedymomy.com:8000/live/domenic/domenic1/37400.ts
+#EXTINF:0,UK: Nick JR Peppa
+http://realspeedymomy.com:8000/live/domenic/domenic1/37399.ts
+#EXTINF:0,UK: Nickelodeon
+http://realspeedymomy.com:8000/live/domenic/domenic1/37402.ts
+#EXTINF:0,UK: NickToons
+http://realspeedymomy.com:8000/live/domenic/domenic1/37401.ts
+#EXTINF:0,UK: REALLY
+http://realspeedymomy.com:8000/live/domenic/domenic1/37365.ts
+#EXTINF:0,UK: RTE 3 J.R
+http://realspeedymomy.com:8000/live/domenic/domenic1/37447.ts
+#EXTINF:0,UK: RTE One
+http://realspeedymomy.com:8000/live/domenic/domenic1/37448.ts
+#EXTINF:0,UK: RTE Two
+http://realspeedymomy.com:8000/live/domenic/domenic1/37449.ts
+#EXTINF:0,UK: Setanta spor
+http://realspeedymomy.com:8000/live/domenic/domenic1/37345.ts
+#EXTINF:0,UK: SKY Atlantic HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/37427.ts
+#EXTINF:0,UK: Sky Movies  Premiere
+http://realspeedymomy.com:8000/live/domenic/domenic1/37425.ts
+#EXTINF:0,UK: Sky Movies Action
+http://realspeedymomy.com:8000/live/domenic/domenic1/37421.ts
+#EXTINF:0,UK: Sky Movies Action & Adventure HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/37424.ts
+#EXTINF:0,UK: Sky Movies Comedy HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/37419.ts
+#EXTINF:0,UK: Sky Movies Crime &Thriller HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/37416.ts
+#EXTINF:0,UK: SKY Movies Disney HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/37407.ts
+#EXTINF:0,UK: Sky Movies Drama & Romance
+http://realspeedymomy.com:8000/live/domenic/domenic1/37418.ts
+#EXTINF:0,UK: Sky Movies Drama & Romance.
+http://realspeedymomy.com:8000/live/domenic/domenic1/37417.ts
+#EXTINF:0,UK: Sky Movies Family HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/37420.ts
+#EXTINF:0,UK: Sky Movies Greats HD HarryPotter
+http://realspeedymomy.com:8000/live/domenic/domenic1/37413.ts
+#EXTINF:0,UK: Sky Movies Hits Showcase HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/37423.ts
+#EXTINF:0,UK: SKY Movies Premier HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/37426.ts
+#EXTINF:0,UK: Sky Movies Sci-fi & Horror HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/37414.ts
+#EXTINF:0,UK: Sky Movies Select
+http://realspeedymomy.com:8000/live/domenic/domenic1/37412.ts
+#EXTINF:0,UK: Sky One HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/37429.ts
+#EXTINF:0,UK: Sky Sport 1
+http://realspeedymomy.com:8000/live/domenic/domenic1/37470.ts
+#EXTINF:0,UK: SKY Sport 2
+http://realspeedymomy.com:8000/live/domenic/domenic1/37468.ts
+#EXTINF:0,UK: Sky Sport 2 HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/37469.ts
+#EXTINF:0,UK: Sky Sport 3
+http://realspeedymomy.com:8000/live/domenic/domenic1/37466.ts
+#EXTINF:0,UK: Sky Sport 3 HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/37467.ts
+#EXTINF:0,UK: Sky Sport 4
+http://realspeedymomy.com:8000/live/domenic/domenic1/37465.ts
+#EXTINF:0,UK: Sky Sport 5 HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/37464.ts
+#EXTINF:0,UK: Sky Sport F1 HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/37347.ts
+#EXTINF:0,UK: Sky Sport News HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/37348.ts
+#EXTINF:0,UK: Sky Sports MIX HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/37332.ts
+#EXTINF:0,UK: Sky Thriller
+http://realspeedymomy.com:8000/live/domenic/domenic1/37415.ts
+#EXTINF:0,UK: SKY Two HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/37428.ts
+#EXTINF:0,UK: SkySelect
+http://realspeedymomy.com:8000/live/domenic/domenic1/37411.ts
+#EXTINF:0,UK: SkyShowcase
+http://realspeedymomy.com:8000/live/domenic/domenic1/37422.ts
+#EXTINF:0,UK: Sony Max
+http://realspeedymomy.com:8000/live/domenic/domenic1/37378.ts
+#EXTINF:0,UK: Sony Movie
+http://realspeedymomy.com:8000/live/domenic/domenic1/37379.ts
+#EXTINF:0,UK: Sony Sab
+http://realspeedymomy.com:8000/live/domenic/domenic1/37380.ts
+#EXTINF:0,UK: SONY TV
+http://realspeedymomy.com:8000/live/domenic/domenic1/37381.ts
+#EXTINF:0,UK: Star Gold
+http://realspeedymomy.com:8000/live/domenic/domenic1/37382.ts
+#EXTINF:0,UK: Star LifeOK (hindi)
+http://realspeedymomy.com:8000/live/domenic/domenic1/37383.ts
+#EXTINF:0,UK: SYFY
+http://realspeedymomy.com:8000/live/domenic/domenic1/37435.ts
+#EXTINF:0,UK: TCM (film)
+http://realspeedymomy.com:8000/live/domenic/domenic1/37432.ts
+#EXTINF:0,UK: TLC-IRELAND
+http://realspeedymomy.com:8000/live/domenic/domenic1/37437.ts
+#EXTINF:0,UK: True Movies 1
+http://realspeedymomy.com:8000/live/domenic/domenic1/37390.ts
+#EXTINF:0,UK: True Movies 2
+http://realspeedymomy.com:8000/live/domenic/domenic1/37389.ts
+#EXTINF:0,UK: TV Nasa
+http://realspeedymomy.com:8000/live/domenic/domenic1/37438.ts
+#EXTINF:0,UK: VH1 CLASSIC
+http://realspeedymomy.com:8000/live/domenic/domenic1/37335.ts
+#EXTINF:0,UK: Watch
+http://realspeedymomy.com:8000/live/domenic/domenic1/37439.ts
+#EXTINF:0,UK:5 USA
+http://realspeedymomy.com:8000/live/domenic/domenic1/37372.ts
+#EXTINF:0,UK:Alibi
+http://realspeedymomy.com:8000/live/domenic/domenic1/37384.ts
+#EXTINF:0,UK:Animal Planet
+http://realspeedymomy.com:8000/live/domenic/domenic1/37352.ts
+#EXTINF:0,UK:At The Races
+http://realspeedymomy.com:8000/live/domenic/domenic1/37349.ts
+#EXTINF:0,UK:BBC News
+http://realspeedymomy.com:8000/live/domenic/domenic1/37453.ts
+#EXTINF:0,UK:BBC Two
+http://realspeedymomy.com:8000/live/domenic/domenic1/37455.ts
+#EXTINF:0,UK:BBC_one
+http://realspeedymomy.com:8000/live/domenic/domenic1/37456.ts
+#EXTINF:0,UK:BT Sports 1
+http://realspeedymomy.com:8000/live/domenic/domenic1/37477.ts
+#EXTINF:0,UK:BT Sports 1 HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/37475.ts
+#EXTINF:0,UK:BT Sports 2
+http://realspeedymomy.com:8000/live/domenic/domenic1/37476.ts
+#EXTINF:0,UK:BT Sports 2 HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/37474.ts
+#EXTINF:0,UK:CBBC Three
+http://realspeedymomy.com:8000/live/domenic/domenic1/37454.ts
+#EXTINF:0,UK:Dave
+http://realspeedymomy.com:8000/live/domenic/domenic1/37351.ts
+#EXTINF:0,UK:Discovery
+http://realspeedymomy.com:8000/live/domenic/domenic1/37360.ts
+#EXTINF:0,UK:Discovery Home Health
+http://realspeedymomy.com:8000/live/domenic/domenic1/37361.ts
+#EXTINF:0,UK:Discovery Science
+http://realspeedymomy.com:8000/live/domenic/domenic1/37362.ts
+#EXTINF:0,UK:Discovery Turbo
+http://realspeedymomy.com:8000/live/domenic/domenic1/37363.ts
+#EXTINF:0,UK:Disney XD
+http://realspeedymomy.com:8000/live/domenic/domenic1/37406.ts
+#EXTINF:0,UK:Film 4
+http://realspeedymomy.com:8000/live/domenic/domenic1/37387.ts
+#EXTINF:0,UK:FOX
+http://realspeedymomy.com:8000/live/domenic/domenic1/37434.ts
+#EXTINF:0,UK:Good Food
+http://realspeedymomy.com:8000/live/domenic/domenic1/37368.ts
+#EXTINF:0,UK:Life Time
+http://realspeedymomy.com:8000/live/domenic/domenic1/37431.ts
+#EXTINF:0,UK:PICK
+http://realspeedymomy.com:8000/live/domenic/domenic1/37366.ts
+#EXTINF:0,UK:Quest
+http://realspeedymomy.com:8000/live/domenic/domenic1/37367.ts
+#EXTINF:0,UK:Sky Box Office (ppv events only)
+http://realspeedymomy.com:8000/live/domenic/domenic1/37343.ts
+#EXTINF:0,UK:Sky News
+http://realspeedymomy.com:8000/live/domenic/domenic1/37369.ts
+#EXTINF:0,UK:Sky Sports 1
+http://realspeedymomy.com:8000/live/domenic/domenic1/37462.ts
+#EXTINF:0,UK:Sky Sports 2
+http://realspeedymomy.com:8000/live/domenic/domenic1/37461.ts
+#EXTINF:0,UK:Sky Sports 3
+http://realspeedymomy.com:8000/live/domenic/domenic1/37460.ts
+#EXTINF:0,UK:Sky Sports 4
+http://realspeedymomy.com:8000/live/domenic/domenic1/37459.ts
+#EXTINF:0,UK:Sky Sports 5
+http://realspeedymomy.com:8000/live/domenic/domenic1/37458.ts
+#EXTINF:0,UK:Sky Sports F1
+http://realspeedymomy.com:8000/live/domenic/domenic1/37463.ts
+#EXTINF:0,UK:TLC
+http://realspeedymomy.com:8000/live/domenic/domenic1/37370.ts
+#EXTINF:0,UK:Travel
+http://realspeedymomy.com:8000/live/domenic/domenic1/37371.ts
+#EXTINF:0,==== USA Channells ====
+http://realspeedymomy.com:8000/live/domenic/domenic1/39278.ts
+#EXTINF:0,USA: HGTV HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39136.ts
+#EXTINF:0,USA: 5 STAR MAX
+http://realspeedymomy.com:8000/live/domenic/domenic1/39168.ts
+#EXTINF:0,USA: A&E HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39167.ts
+#EXTINF:0,USA: ABC Action News
+http://realspeedymomy.com:8000/live/domenic/domenic1/39115.ts
+#EXTINF:0,USA: ABC FAMILY/SPARK
+http://realspeedymomy.com:8000/live/domenic/domenic1/39117.ts
+#EXTINF:0,USA: ABC HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39114.ts
+#EXTINF:0,USA: ABC News
+http://realspeedymomy.com:8000/live/domenic/domenic1/39116.ts
+#EXTINF:0,USA: AFN Family Movie
+http://realspeedymomy.com:8000/live/domenic/domenic1/39118.ts
+#EXTINF:0,USA: AFN Movie
+http://realspeedymomy.com:8000/live/domenic/domenic1/39119.ts
+#EXTINF:0,USA: AFN News
+http://realspeedymomy.com:8000/live/domenic/domenic1/39120.ts
+#EXTINF:0,USA: AFN Prime Atlantic
+http://realspeedymomy.com:8000/live/domenic/domenic1/39121.ts
+#EXTINF:0,USA: AFN Prime Pacific
+http://realspeedymomy.com:8000/live/domenic/domenic1/39122.ts
+#EXTINF:0,USA: AL JAZEERA U.S HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39166.ts
+#EXTINF:0,USA: AMC
+http://realspeedymomy.com:8000/live/domenic/domenic1/39238.ts
+#EXTINF:0,USA: Americas Auction TV
+http://realspeedymomy.com:8000/live/domenic/domenic1/39104.ts
+#EXTINF:0,USA: ANIMAL PLANET
+http://realspeedymomy.com:8000/live/domenic/domenic1/39254.ts
+#EXTINF:0,USA: BBC WORLD NEWS
+http://realspeedymomy.com:8000/live/domenic/domenic1/39165.ts
+#EXTINF:0,USA: BEIN SPORTS U.S.A
+http://realspeedymomy.com:8000/live/domenic/domenic1/39164.ts
+#EXTINF:0,USA: Big Ten Network HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39149.ts
+#EXTINF:0,USA: BLOOMBERG TV
+http://realspeedymomy.com:8000/live/domenic/domenic1/39228.ts
+#EXTINF:0,USA: Bravo HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39169.ts
+#EXTINF:0,USA: BT SPORT | ESPN
+http://realspeedymomy.com:8000/live/domenic/domenic1/39258.ts
+#EXTINF:0,USA: 24/7 SOUTHPARK HD SERIES
+http://realspeedymomy.com:8000/live/domenic/domenic1/39141.ts
+#EXTINF:0,USA: 24/7 THE WALKING DEAD SERIES
+http://realspeedymomy.com:8000/live/domenic/domenic1/39140.ts
+#EXTINF:0,USA: C-SPAN 1 HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39180.ts
+#EXTINF:0,USA: C-SPAN 2 HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39179.ts
+#EXTINF:0,USA: C-SPAN 3 HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39178.ts
+#EXTINF:0,USA: CAPITAL TV
+http://realspeedymomy.com:8000/live/domenic/domenic1/39182.ts
+#EXTINF:0,USA: CARTOON NETWORK
+http://realspeedymomy.com:8000/live/domenic/domenic1/39162.ts
+#EXTINF:0,USA: CBS HD-US
+http://realspeedymomy.com:8000/live/domenic/domenic1/39252.ts
+#EXTINF:0,USA: CBS News
+http://realspeedymomy.com:8000/live/domenic/domenic1/39239.ts
+#EXTINF:0,USA: CBSN News
+http://realspeedymomy.com:8000/live/domenic/domenic1/39185.ts
+#EXTINF:0,USA: Cinemax 5 Max
+http://realspeedymomy.com:8000/live/domenic/domenic1/39145.ts
+#EXTINF:0,USA: Cinemax ActionMax
+http://realspeedymomy.com:8000/live/domenic/domenic1/39188.ts
+#EXTINF:0,USA: Cinemax East
+http://realspeedymomy.com:8000/live/domenic/domenic1/39189.ts
+#EXTINF:0,USA: Cinemax Moremax
+http://realspeedymomy.com:8000/live/domenic/domenic1/39161.ts
+#EXTINF:0,USA: CITY HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39190.ts
+#EXTINF:0,USA: CNBC HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39144.ts
+#EXTINF:0,USA: CNN
+http://realspeedymomy.com:8000/live/domenic/domenic1/39232.ts
+#EXTINF:0,USA: CNN HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39233.ts
+#EXTINF:0,USA: CNN HD INTERNATIONAL
+http://realspeedymomy.com:8000/live/domenic/domenic1/39231.ts
+#EXTINF:0,USA: COMEDY CENTRAL
+http://realspeedymomy.com:8000/live/domenic/domenic1/39160.ts
+#EXTINF:0,USA: Crime & Investigation
+http://realspeedymomy.com:8000/live/domenic/domenic1/39159.ts
+#EXTINF:0,USA: CW 11 HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39236.ts
+#EXTINF:0,USA: CW Channel 11
+http://realspeedymomy.com:8000/live/domenic/domenic1/39186.ts
+#EXTINF:0,USA: DISCOVERY CHANNEL HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39245.ts
+#EXTINF:0,USA: DISCOVERY SCIENCE HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39257.ts
+#EXTINF:0,USA: DISCOVERY SHOWCASE
+http://realspeedymomy.com:8000/live/domenic/domenic1/39256.ts
+#EXTINF:0,USA: DISCOVERY VELOCITY
+http://realspeedymomy.com:8000/live/domenic/domenic1/39158.ts
+#EXTINF:0,USA: DISNEY JR HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39203.ts
+#EXTINF:0,USA: E! Network HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39157.ts
+#EXTINF:0,USA: ESPN NEWS
+http://realspeedymomy.com:8000/live/domenic/domenic1/39259.ts
+#EXTINF:0,USA: EURO NEWS
+http://realspeedymomy.com:8000/live/domenic/domenic1/39230.ts
+#EXTINF:0,USA: FOOD NETWORK
+http://realspeedymomy.com:8000/live/domenic/domenic1/39156.ts
+#EXTINF:0,USA: FOX
+http://realspeedymomy.com:8000/live/domenic/domenic1/39229.ts
+#EXTINF:0,USA: Fox News
+http://realspeedymomy.com:8000/live/domenic/domenic1/39195.ts
+#EXTINF:0,USA: FX HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39196.ts
+#EXTINF:0,USA: GRIT TV MOVIES
+http://realspeedymomy.com:8000/live/domenic/domenic1/39223.ts
+#EXTINF:0,USA: GSN TV
+http://realspeedymomy.com:8000/live/domenic/domenic1/39143.ts
+#EXTINF:0,USA: HALLMARK
+http://realspeedymomy.com:8000/live/domenic/domenic1/39198.ts
+#EXTINF:0,USA: HBO 2 COMEDY
+http://realspeedymomy.com:8000/live/domenic/domenic1/39199.ts
+#EXTINF:0,USA: HBO Family HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39142.ts
+#EXTINF:0,USA: HBO HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39200.ts
+#EXTINF:0,USA: HBO SIGNATURE
+http://realspeedymomy.com:8000/live/domenic/domenic1/39201.ts
+#EXTINF:0,USA: HBO ZONE
+http://realspeedymomy.com:8000/live/domenic/domenic1/39202.ts
+#EXTINF:0,USA: HEART TV
+http://realspeedymomy.com:8000/live/domenic/domenic1/39181.ts
+#EXTINF:0,USA: HISTORY
+http://realspeedymomy.com:8000/live/domenic/domenic1/39246.ts
+#EXTINF:0,USA: HSN YT LIVE 1080p HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39110.ts
+#EXTINF:0,USA: KIDS READING TV
+http://realspeedymomy.com:8000/live/domenic/domenic1/39108.ts
+#EXTINF:0,USA: LIFE TIME
+http://realspeedymomy.com:8000/live/domenic/domenic1/39204.ts
+#EXTINF:0,USA: LIFETIME HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39183.ts
+#EXTINF:0,USA: LMN HDTV
+http://realspeedymomy.com:8000/live/domenic/domenic1/39134.ts
+#EXTINF:0,USA: MLB HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39205.ts
+#EXTINF:0,USA: MOVIETIME
+http://realspeedymomy.com:8000/live/domenic/domenic1/39187.ts
+#EXTINF:0,USA: MSNBC HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39137.ts
+#EXTINF:0,USA: MTV HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39241.ts
+#EXTINF:0,USA: MTV HITS LA
+http://realspeedymomy.com:8000/live/domenic/domenic1/39267.ts
+#EXTINF:0,USA: MTV LIVE HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39244.ts
+#EXTINF:0,USA: MTV LIVE USA
+http://realspeedymomy.com:8000/live/domenic/domenic1/39242.ts
+#EXTINF:0,USA: MY9 TV
+http://realspeedymomy.com:8000/live/domenic/domenic1/39133.ts
+#EXTINF:0,USA: NASA TV HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39112.ts
+#EXTINF:0,USA: NASA TV MEDIA HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39111.ts
+#EXTINF:0,USA: NAT GEO HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39243.ts
+#EXTINF:0,USA: NBA TV
+http://realspeedymomy.com:8000/live/domenic/domenic1/39197.ts
+#EXTINF:0,USA: NBC GOLF
+http://realspeedymomy.com:8000/live/domenic/domenic1/39155.ts
+#EXTINF:0,USA: NBC HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39207.ts
+#EXTINF:0,USA: NBCSN HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39215.ts
+#EXTINF:0,USA: News 12 Bronx (NYC)
+http://realspeedymomy.com:8000/live/domenic/domenic1/39176.ts
+#EXTINF:0,USA: News 12 Brooklyn (NYC)
+http://realspeedymomy.com:8000/live/domenic/domenic1/39175.ts
+#EXTINF:0,USA: News 12 Connecticut (LIVE)
+http://realspeedymomy.com:8000/live/domenic/domenic1/39174.ts
+#EXTINF:0,USA: News 12 Long Island(Stream 1)
+http://realspeedymomy.com:8000/live/domenic/domenic1/39173.ts
+#EXTINF:0,USA: News 12 New Jersey (LIVE)
+http://realspeedymomy.com:8000/live/domenic/domenic1/39172.ts
+#EXTINF:0,USA: News 12 New Jersey (Weather Live)
+http://realspeedymomy.com:8000/live/domenic/domenic1/39171.ts
+#EXTINF:0,USA: NEWSMAX YT LIVE HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39109.ts
+#EXTINF:0,USA: NICK HD (kids)
+http://realspeedymomy.com:8000/live/domenic/domenic1/39131.ts
+#EXTINF:0,USA: NICKELODEON KIDS
+http://realspeedymomy.com:8000/live/domenic/domenic1/39163.ts
+#EXTINF:0,USA: NICKTOONS
+http://realspeedymomy.com:8000/live/domenic/domenic1/39130.ts
+#EXTINF:0,USA: Nursery Rhymes (Baby Songs)
+http://realspeedymomy.com:8000/live/domenic/domenic1/39147.ts
+#EXTINF:0,USA: OWN HD (Oprah Winfrey TV)
+http://realspeedymomy.com:8000/live/domenic/domenic1/39129.ts
+#EXTINF:0,USA: P.B.S Kids
+http://realspeedymomy.com:8000/live/domenic/domenic1/39148.ts
+#EXTINF:0,USA: QVC Beauty IQ
+http://realspeedymomy.com:8000/live/domenic/domenic1/39107.ts
+#EXTINF:0,USA: QVC Live
+http://realspeedymomy.com:8000/live/domenic/domenic1/39106.ts
+#EXTINF:0,USA: QVC Plus
+http://realspeedymomy.com:8000/live/domenic/domenic1/39105.ts
+#EXTINF:0,USA: RT DOCUMENTARY
+http://realspeedymomy.com:8000/live/domenic/domenic1/39153.ts
+#EXTINF:0,USA: Showtime 2 HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39217.ts
+#EXTINF:0,USA: Showtime Extreme HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39128.ts
+#EXTINF:0,USA: Showtime HDTV
+http://realspeedymomy.com:8000/live/domenic/domenic1/39216.ts
+#EXTINF:0,USA: Showtime Showcase
+http://realspeedymomy.com:8000/live/domenic/domenic1/39127.ts
+#EXTINF:0,USA: SPIKE TV
+http://realspeedymomy.com:8000/live/domenic/domenic1/39240.ts
+#EXTINF:0,USA: SportsNet One HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39218.ts
+#EXTINF:0,USA: Starz Cinema
+http://realspeedymomy.com:8000/live/domenic/domenic1/39219.ts
+#EXTINF:0,USA: Starz Comedy
+http://realspeedymomy.com:8000/live/domenic/domenic1/39220.ts
+#EXTINF:0,USA: Starz East
+http://realspeedymomy.com:8000/live/domenic/domenic1/39221.ts
+#EXTINF:0,USA: Starz Edge HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39222.ts
+#EXTINF:0,USA: Starz Encore East
+http://realspeedymomy.com:8000/live/domenic/domenic1/39193.ts
+#EXTINF:0,USA: Starz Encore HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39192.ts
+#EXTINF:0,USA: Starz West
+http://realspeedymomy.com:8000/live/domenic/domenic1/39224.ts
+#EXTINF:0,USA: SYFY HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39152.ts
+#EXTINF:0,USA: T.N.T
+http://realspeedymomy.com:8000/live/domenic/domenic1/39235.ts
+#EXTINF:0,USA: TBS
+http://realspeedymomy.com:8000/live/domenic/domenic1/39234.ts
+#EXTINF:0,USA: TBS HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39247.ts
+#EXTINF:0,USA: TENNIS HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39126.ts
+#EXTINF:0,USA: The Weather Channel
+http://realspeedymomy.com:8000/live/domenic/domenic1/39177.ts
+#EXTINF:0,USA: TLC
+http://realspeedymomy.com:8000/live/domenic/domenic1/39248.ts
+#EXTINF:0,USA: Toon Kids
+http://realspeedymomy.com:8000/live/domenic/domenic1/39146.ts
+#EXTINF:0,USA: TRAVEL CHANNEL
+http://realspeedymomy.com:8000/live/domenic/domenic1/39250.ts
+#EXTINF:0,USA: TRU TV
+http://realspeedymomy.com:8000/live/domenic/domenic1/39125.ts
+#EXTINF:0,USA: TRUE MOVIES
+http://realspeedymomy.com:8000/live/domenic/domenic1/39151.ts
+#EXTINF:0,USA: TV ONE
+http://realspeedymomy.com:8000/live/domenic/domenic1/39124.ts
+#EXTINF:0,USA: TV SERIES
+http://realspeedymomy.com:8000/live/domenic/domenic1/39150.ts
+#EXTINF:0,USA: University of California TV
+http://realspeedymomy.com:8000/live/domenic/domenic1/39170.ts
+#EXTINF:0,USA: USA Network
+http://realspeedymomy.com:8000/live/domenic/domenic1/39237.ts
+#EXTINF:0,USA: Versus | NBA
+http://realspeedymomy.com:8000/live/domenic/domenic1/39249.ts
+#EXTINF:0,USA: VH1 HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39123.ts
+#EXTINF:0,USA: WEATHERNATION
+http://realspeedymomy.com:8000/live/domenic/domenic1/39253.ts
+#EXTINF:0,USA: Tsn-Sport 1 HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39277.ts
+#EXTINF:0,USA: Tsn-Sport 2 HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39276.ts
+#EXTINF:0,USA: Tsn-Sport 3 HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39275.ts
+#EXTINF:0,USA: Tsn-Sport 4 HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39274.ts
+#EXTINF:0,USA: Tsn-Sport 5 HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39273.ts
+#EXTINF:0,USA: WWE Network
+http://realspeedymomy.com:8000/live/domenic/domenic1/39251.ts
+#EXTINF:0,USA: NFL Network HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39264.ts
+#EXTINF:0,USA: NFL Network HDTV 1080i
+http://realspeedymomy.com:8000/live/domenic/domenic1/39132.ts
+#EXTINF:0,USA: NFL Now
+http://realspeedymomy.com:8000/live/domenic/domenic1/39265.ts
+#EXTINF:0,USA: NHL NETWORK
+http://realspeedymomy.com:8000/live/domenic/domenic1/39154.ts
+#EXTINF:0,USA: NHLTV NETWORK HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39135.ts
+#EXTINF:0,USA: FOX DEPORTES HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39139.ts
+#EXTINF:0,USA: FOX MOTOSPORT
+http://realspeedymomy.com:8000/live/domenic/domenic1/39113.ts
+#EXTINF:0,USA: FOX SOCCER PLUS HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39138.ts
+#EXTINF:0,USA: FOX Sport 1
+http://realspeedymomy.com:8000/live/domenic/domenic1/39269.ts
+#EXTINF:0,USA: FOX SPORTS ONE
+http://realspeedymomy.com:8000/live/domenic/domenic1/39255.ts
+#EXTINF:0,USA: FOX SPORTS TWO HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39184.ts
+#EXTINF:0,USA: Fight Network / MMA Network
+http://realspeedymomy.com:8000/live/domenic/domenic1/39206.ts
+#EXTINF:0,USA: Fight Sport 1
+http://realspeedymomy.com:8000/live/domenic/domenic1/39194.ts
+#EXTINF:0,USA: Fight Sport 2
+http://realspeedymomy.com:8000/live/domenic/domenic1/39191.ts
+#EXTINF:0,USA: ESPN
+http://realspeedymomy.com:8000/live/domenic/domenic1/39262.ts
+#EXTINF:0,USA: ESPN 2 HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39261.ts
+#EXTINF:0,USA: ESPN 3 TRE
+http://realspeedymomy.com:8000/live/domenic/domenic1/39260.ts
+#EXTINF:0,USA: AFN Sports
+http://realspeedymomy.com:8000/live/domenic/domenic1/39271.ts
+#EXTINF:0,USA: AFN Sports 2
+http://realspeedymomy.com:8000/live/domenic/domenic1/39270.ts
+#EXTINF:0,USA: AFN Sports HD
+http://realspeedymomy.com:8000/live/domenic/domenic1/39272.ts
+#EXTINF:0,USA: Astro Sports 2
+http://realspeedymomy.com:8000/live/domenic/domenic1/39225.ts
+#EXTINF:0,USA: Astro Sports 3
+http://realspeedymomy.com:8000/live/domenic/domenic1/39226.ts
+#EXTINF:0,- - - - ENGLAND - - - -
+
+Video Player
+Error loading this resource
+
+#EXTINF:0,Sky Sport 1
+http://151.80.97.181/live/LUXCOMBI-0646/FGQY459I/631.ts
+#EXTINF:0,Sky Sport 2
+http://151.80.97.181/live/LUXCOMBI-0646/FGQY459I/632.ts
+#EXTINF:0,Sky Sport 3
+http://151.80.97.181/live/LUXCOMBI-0646/FGQY459I/633.ts
+#EXTINF:0,Sky Sport 4
+http://151.80.97.181/live/LUXCOMBI-0646/FGQY459I/634.ts
+#EXTINF:0,Sky Sport 5
+http://151.80.97.181/live/LUXCOMBI-0646/FGQY459I/635.ts
+#EXTINF:0,Sky Sport F1
+http://151.80.97.181/live/LUXCOMBI-0646/FGQY459I/636.ts
+#EXTINF:0,Sky Movies Thriller
+http://151.80.97.181/live/LUXCOMBI-0646/FGQY459I/1670.ts
+#EXTINF:0,Sky Movies Select
+http://151.80.97.181/live/LUXCOMBI-0646/FGQY459I/648.ts
+#EXTINF:0,Sky Movies Sci-Fi Horror
+http://151.80.97.181/live/LUXCOMBI-0646/FGQY459I/649.ts
+#EXTINF:0,Sky Movies Premiere
+http://151.80.97.181/live/LUXCOMBI-0646/FGQY459I/647.ts
+#EXTINF:0,Sky Movies Greats
+http://151.80.97.181/live/LUXCOMBI-0646/FGQY459I/650.ts
+#EXTINF:0,Sky Movies Family
+http://151.80.97.181/live/LUXCOMBI-0646/FGQY459I/651.ts
+#EXTINF:0,Drama
+http://151.80.97.181/live/LUXCOMBI-0646/FGQY459I/652.ts
+#EXTINF:0,Sky Movies Disney
+http://151.80.97.181/live/LUXCOMBI-0646/FGQY459I/655.ts
+#EXTINF:0,Sky Movies Comedy Central
+http://151.80.97.181/live/LUXCOMBI-0646/FGQY459I/653.ts
+#EXTINF:0,Sky Movies Comedy
+http://151.80.97.181/live/LUXCOMBI-0646/FGQY459I/654.ts
+#EXTINF:0,Sky Movies Action
+http://151.80.97.181/live/LUXCOMBI-0646/FGQY459I/646.ts
+#EXTINF:0,National Geographic
+http://151.80.97.181/live/LUXCOMBI-0646/FGQY459I/625.ts
+#EXTINF:0,Liverpool TV
+http://151.80.97.181/live/LUXCOMBI-0646/FGQY459I/643.ts
+#EXTINF:0,History
+http://151.80.97.181/live/LUXCOMBI-0646/FGQY459I/623.ts
+#EXTINF:0,EUROSPORT 2 UK
+http://151.80.97.181/live/LUXCOMBI-0646/FGQY459I/642.ts
+#EXTINF:0,EUROSPORT 1 UK
+http://151.80.97.181/live/LUXCOMBI-0646/FGQY459I/641.ts
+#EXTINF:0,Discovery Turbo
+http://151.80.97.181/live/LUXCOMBI-0646/FGQY459I/620.ts
+#EXTINF:0,Discovery Science
+http://151.80.97.181/live/LUXCOMBI-0646/FGQY459I/619.ts
+#EXTINF:0,Discovery Home & Health
+http://151.80.97.181/live/LUXCOMBI-0646/FGQY459I/621.ts
+#EXTINF:0,Discovery History
+http://151.80.97.181/live/LUXCOMBI-0646/FGQY459I/622.ts
+#EXTINF:0,Discovery
+http://151.80.97.181/live/LUXCOMBI-0646/FGQY459I/618.ts
+#EXTINF:0,Chelsea TV
+http://151.80.97.181/live/LUXCOMBI-0646/FGQY459I/644.ts
+#EXTINF:0,BT Sport Europe
+http://151.80.97.181/live/LUXCOMBI-0646/FGQY459I/639.ts
+#EXTINF:0,BT SPORT 1
+http://151.80.97.181/live/LUXCOMBI-0646/FGQY459I/637.ts
+#EXTINF:0,BT SPORT 2
+http://151.80.97.181/live/LUXCOMBI-0646/FGQY459I/638.ts
+#EXTINF:0,BBC TWO
+http://151.80.97.181/live/LUXCOMBI-0646/FGQY459I/614.ts
+#EXTINF:0,BBC Three
+http://151.80.97.181/live/LUXCOMBI-0646/FGQY459I/615.ts
+#EXTINF:0,BBC One
+http://151.80.97.181/live/LUXCOMBI-0646/FGQY459I/613.ts
+#EXTINF:0,BBC News
+http://151.80.97.181/live/LUXCOMBI-0646/FGQY459I/617.ts
+#EXTINF:0,BBC Four
+http://151.80.97.181/live/LUXCOMBI-0646/FGQY459I/616.ts
+#EXTINF:0,Animal Planet
+http://151.80.97.181/live/LUXCOMBI-0646/FGQY459I/627.ts
